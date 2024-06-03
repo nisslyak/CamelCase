@@ -1,0 +1,14 @@
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\bin\Debug\net8.0\CamelCase.exe
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\bin\Debug\net8.0\CamelCase.deps.json
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\bin\Debug\net8.0\CamelCase.runtimeconfig.json
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\bin\Debug\net8.0\CamelCase.dll
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\bin\Debug\net8.0\CamelCase.pdb
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\CamelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\CamelCase.AssemblyInfoInputs.cache
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\CamelCase.AssemblyInfo.cs
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\CamelCase.csproj.CoreCompileInputs.cache
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\CamelCase.dll
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\refint\CamelCase.dll
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\CamelCase.pdb
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\CamelCase.genruntimeconfig.cache
+C:\Users\aapod\source\repos\CsharpProjects\CamelCase\obj\Debug\net8.0\ref\CamelCase.dll
