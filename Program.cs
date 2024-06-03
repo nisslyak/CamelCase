@@ -114,11 +114,6 @@ class Solution
         return splitText.ToLower();
     }
 
-
-
-
-
-
     public static void Main(string[] args)
     {
         CreateOrSplitInput();
