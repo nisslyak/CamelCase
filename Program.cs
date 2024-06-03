@@ -85,7 +85,6 @@ class Solution
         return combinedText;
     }
 
-
     public static string SplitText(string input)
     {
 
@@ -97,7 +96,6 @@ class Solution
 
         return splitText;
     }
-
 
     public static string RemoveBrackets(string input)
     {
@@ -119,5 +117,4 @@ class Solution
     {
         CreateOrSplitInput();
     }
-
 }
