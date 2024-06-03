@@ -47,7 +47,6 @@ class Solution
                     Console.WriteLine(nameOfTheClass);
                 }
             }
-
             else if (inputLines[i].StartsWith("C"))
             {
                 if (inputLines[i][2] == 'M')
@@ -70,6 +69,7 @@ class Solution
             }
         }
     }
+
     public static string CombineText(string input)
     {
 
@@ -103,6 +103,7 @@ class Solution
     {
         return input.Substring(0, input.Length - 2);
     }
+
     public static string SplitClass(string input)
     {
         string[] updatedInput = input.Split(new string[] { " " }, StringSplitOptions.None);
